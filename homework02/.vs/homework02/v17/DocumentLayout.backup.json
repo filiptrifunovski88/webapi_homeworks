@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\webapi_homeworks\\homework02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F86EEAEE-6154-4515-BEFC-B422E9AF0C05}|homework02\\homework02.csproj|d:\\qinshift\\proekti\\homeworks\\webapi_homeworks\\homework02\\homework02\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F86EEAEE-6154-4515-BEFC-B422E9AF0C05}|homework02\\homework02.csproj|solutionrelative:homework02\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F86EEAEE-6154-4515-BEFC-B422E9AF0C05}|homework02\\homework02.csproj|d:\\qinshift\\proekti\\homeworks\\webapi_homeworks\\homework02\\homework02\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F86EEAEE-6154-4515-BEFC-B422E9AF0C05}|homework02\\homework02.csproj|solutionrelative:homework02\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F86EEAEE-6154-4515-BEFC-B422E9AF0C05}|homework02\\homework02.csproj|d:\\qinshift\\proekti\\homeworks\\webapi_homeworks\\homework02\\homework02\\booksdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F86EEAEE-6154-4515-BEFC-B422E9AF0C05}|homework02\\homework02.csproj|solutionrelative:homework02\\booksdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F86EEAEE-6154-4515-BEFC-B422E9AF0C05}|homework02\\homework02.csproj|d:\\qinshift\\proekti\\homeworks\\webapi_homeworks\\homework02\\homework02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F86EEAEE-6154-4515-BEFC-B422E9AF0C05}|homework02\\homework02.csproj|solutionrelative:homework02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\webapi_homeworks\\homework02\\homework02\\Program.cs",
+              "RelativeDocumentMoniker": "homework02\\Program.cs",
+              "ToolTip": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\webapi_homeworks\\homework02\\homework02\\Program.cs",
+              "RelativeToolTip": "homework02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T01:06:01.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BooksDb.cs",
+              "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\webapi_homeworks\\homework02\\homework02\\BooksDb.cs",
+              "RelativeDocumentMoniker": "homework02\\BooksDb.cs",
+              "ToolTip": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\webapi_homeworks\\homework02\\homework02\\BooksDb.cs",
+              "RelativeToolTip": "homework02\\BooksDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T00:39:52.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\webapi_homeworks\\homework02\\homework02\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "homework02\\Models\\Book.cs",
+              "ToolTip": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\webapi_homeworks\\homework02\\homework02\\Models\\Book.cs",
+              "RelativeToolTip": "homework02\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T00:38:26.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\webapi_homeworks\\homework02\\homework02\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "homework02\\Controllers\\BooksController.cs",
+              "ToolTip": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\webapi_homeworks\\homework02\\homework02\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "homework02\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAmwGgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T00:37:49.76Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
