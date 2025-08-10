@@ -13,10 +13,25 @@ namespace homework01.Controllers
             return Ok(StaticDb.Usernames);
         }
 
-        [HttpGet("oneuser")]
-        public IActionResult GetOneUser()
+        [HttpGet("{index}")]
+        public IActionResult GetByIndex(int index)
         {
-            return Ok(StaticDb.Usernames[1]);
+            try
+            {
+                if (index < 0)
+                {
+                    return BadRequest("The index can not be negative!");
+                }
+                if (index >= StaticDb.Usernames.Count)
+                {
+                    return NotFound($"There is no resource on index {index}");
+                }
+                return Ok(StaticDb.Usernames[index]);
+            }
+            catch(Exception ex)
+            {
+                return StatusCode(StatusCodes.Status500InternalServerError, "An error occurred! Contact the admin!");
+            }
         }
     }
 }

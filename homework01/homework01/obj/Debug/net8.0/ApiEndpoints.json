@@ -11,12 +11,18 @@
   },
   {
     "ContainingType": "homework01.Controllers.UsersController",
-    "Method": "GetOneUser",
-    "RelativePath": "api/Users",
-    "HttpMethod": "",
+    "Method": "GetByIndex",
+    "RelativePath": "api/Users/{index}",
+    "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
-    "Parameters": [],
+    "Parameters": [
+      {
+        "Name": "index",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
     "ReturnTypes": []
   },
   {

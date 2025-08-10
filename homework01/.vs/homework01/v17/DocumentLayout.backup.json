@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\webapi_homeworks\\homework01\\homework01\\",
+  "WorkspaceRootPath": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\webapi_homeworks\\homework01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{961CC30F-1765-4AFC-9B99-2F7C3ADD176A}|homework01\\homework01.csproj|d:\\qinshift\\proekti\\homeworks\\webapi_homeworks\\homework01\\homework01\\homework01\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{961CC30F-1765-4AFC-9B99-2F7C3ADD176A}|homework01\\homework01.csproj|d:\\qinshift\\proekti\\homeworks\\webapi_homeworks\\homework01\\homework01\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{961CC30F-1765-4AFC-9B99-2F7C3ADD176A}|homework01\\homework01.csproj|solutionrelative:homework01\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{961CC30F-1765-4AFC-9B99-2F7C3ADD176A}|homework01\\homework01.csproj|d:\\qinshift\\proekti\\homeworks\\webapi_homeworks\\homework01\\homework01\\homework01\\staticdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{961CC30F-1765-4AFC-9B99-2F7C3ADD176A}|homework01\\homework01.csproj|d:\\qinshift\\proekti\\homeworks\\webapi_homeworks\\homework01\\homework01\\staticdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{961CC30F-1765-4AFC-9B99-2F7C3ADD176A}|homework01\\homework01.csproj|solutionrelative:homework01\\staticdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "StaticDb.cs",
-              "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\webapi_homeworks\\homework01\\homework01\\homework01\\StaticDb.cs",
+              "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\webapi_homeworks\\homework01\\homework01\\StaticDb.cs",
               "RelativeDocumentMoniker": "homework01\\StaticDb.cs",
-              "ToolTip": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\webapi_homeworks\\homework01\\homework01\\homework01\\StaticDb.cs",
+              "ToolTip": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\webapi_homeworks\\homework01\\homework01\\StaticDb.cs",
               "RelativeToolTip": "homework01\\StaticDb.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-08T01:10:04.367Z",
               "EditorCaption": ""
@@ -37,11 +37,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "UsersController.cs",
-              "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\webapi_homeworks\\homework01\\homework01\\homework01\\Controllers\\UsersController.cs",
+              "DocumentMoniker": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\webapi_homeworks\\homework01\\homework01\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "homework01\\Controllers\\UsersController.cs",
-              "ToolTip": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\webapi_homeworks\\homework01\\homework01\\homework01\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\webapi_homeworks\\homework01\\homework01\\Controllers\\UsersController.cs",
               "RelativeToolTip": "homework01\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBwAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-08T01:09:31.951Z",
               "EditorCaption": ""

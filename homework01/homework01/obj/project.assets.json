@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\webapi_homeworks\\homework01\\homework01\\homework01\\homework01.csproj",
+      "projectUniqueName": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\webapi_homeworks\\homework01\\homework01\\homework01.csproj",
       "projectName": "homework01",
-      "projectPath": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\webapi_homeworks\\homework01\\homework01\\homework01\\homework01.csproj",
+      "projectPath": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\webapi_homeworks\\homework01\\homework01\\homework01.csproj",
       "packagesPath": "C:\\Users\\win11pro\\.nuget\\packages\\",
-      "outputPath": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\webapi_homeworks\\homework01\\homework01\\homework01\\obj\\",
+      "outputPath": "D:\\QINSHIFT\\PROEKTI\\Homeworks\\webapi_homeworks\\homework01\\homework01\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
